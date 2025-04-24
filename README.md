@@ -201,7 +201,7 @@ Whether you're running a small community library or just organizing your persona
 
 **Clone the repository**
  ```bash
-git clone https://github.com/Aaditya77700/demo-app.git
+git clone https://github.com/Web-Dev-Kombee/Book-Lending-System.git
 cd book-lending-system
  ```
 **Install dependencies**
@@ -241,14 +241,7 @@ Visit http://localhost:8000 to start using your Book Lending System.
  ```
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/Aaditya77700/demo-app.git
+   git clone https://github.com/Web-Dev-Kombee/Book-Lending-System.git
    cd book-lending-system
      ```
-
-## 🤝 Contributing
-Contributions are welcome! Please fork this repository and submit a pull request.
-     ```
-## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-    ```
 
