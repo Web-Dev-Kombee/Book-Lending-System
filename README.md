@@ -239,9 +239,36 @@ php artisan passport:client --personal
 php artisan serve
 Visit http://localhost:8000 to start using your Book Lending System.
  ```
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/Web-Dev-Kombee/Book-Lending-System.git
-   cd book-lending-system
-     ```
+## 🤝 **Contributing**
+
+We welcome contributions! Follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature/fix.
+3. Commit changes and open a **Pull Request**.
+
+---
+
+## 📜 **License**
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+ ## 👨‍💻 **Author**
+
+**Kombee Technologies**
+
+- 🌐 [Portfolio](https://github.com/kombee-technologies)
+- 💼 [LinkedIn](https://in.linkedin.com/company/kombee-global)
+- 🌍 [Website](https://www.kombee.com/)
+
+---
+
+<p align="center">
+  Built with ❤️ using Laravel
+</p>
+
+---
+
 
